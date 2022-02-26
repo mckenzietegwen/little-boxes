@@ -1,7 +1,6 @@
-/* Since I will have multiple, I added an ID to target my first work. */
 #carmen section {
 	background-color: rgb(238,238,238); /* I used the “Digital Color Meter” on my Mac to get these exact values. */
-	height: 288px; /* Let’s make this smaller to reflect its actual size. */
+	height: 288px;
 	width: 378.6px;
 	transform: rotate(180deg);
 }
