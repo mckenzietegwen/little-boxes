@@ -1,0 +1,55 @@
+/* Since I will have multiple, I added an ID to target my first work. */
+#carmen section {
+	background-color: rgb(238,238,238); /* I used the “Digital Color Meter” on my Mac to get these exact values. */
+	height: 288px; /* Let’s make this smaller to reflect its actual size. */
+	width: 378.6px;
+	transform: rotate(180deg);
+}
+
+.triangle1 {
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 0 96px 189.3px;
+	border-color: transparent transparent #292929 transparent;
+}
+
+.triangle2 {
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 96px 0 0 189.3px;
+	border-color: transparent transparent transparent #292929;
+}
+
+.triangle3 {
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 0 96px 189.3px;
+	border-color: transparent transparent #292929 transparent;
+}
+
+.triangle4 {
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 96px 0 0 189.3px;
+	border-color: transparent transparent transparent #292929;
+}
+
+.triangle5 {
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 0 96px 189.3px;
+	border-color: transparent transparent #292929 transparent;
+}
+
+.triangle6 {
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 96px 0 0 189.3px;
+	border-color: transparent transparent transparent #292929;
+}
